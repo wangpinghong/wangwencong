@@ -1,4 +1,4 @@
-1- Expand the zip file to your website's root or the folder of your choice. 
+1234561- Expand the zip file to your website's root or the folder of your choice. 
 
 2- In the "albums" folder create a subfolder for each album and copy your photos in them.
 
